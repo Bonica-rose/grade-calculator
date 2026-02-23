@@ -1,0 +1,14 @@
+/* Base styles */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: system-ui, Roboto, Ubuntu, sans-serif;
+    line-height: 1.6;
+    background: linear-gradient(#b8dafc, white);
+    overflow: hidden;
+}
