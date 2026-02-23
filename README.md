@@ -8,5 +8,5 @@
         - if else-if else
         - dialog boxes(prompt() & alert())
 
-###
-    - Not used DOM manipulation
+### Not Used
+    - DOM manipulation
